@@ -15,8 +15,13 @@ An exploratory data analysis (EDA) of 12,575 retail transactions (Jan 2022 – J
 ## Project Structure
 
 ```
-├── RetailSalesEDA_.ipynb       # Analysis notebook (with outputs and insights)
-├── retail_store_sales.csv     # Dataset
+Retail-Sales-Exploratory-Data-Analysis
+│
+├── data/
+│   └── retail_store_sales.csv
+│
+├── RetailSalesEDA_.ipynb
+│
 └── README.md
 ```
 
